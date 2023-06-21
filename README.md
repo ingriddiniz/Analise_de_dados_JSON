@@ -14,7 +14,7 @@ A função `totalEspecies`, retorna um número inteiro.
 A função `parenteMaisProximo`, recebe o nome de duas espécies, por exemplo homens (*Homo sapiens*) e macacos japoneses (*Macaca fuscata*), e retorna o nome científico da categoria respetiva.
 
 
-També foi feita uma função `desenhaGatos` que gera um ficheiro `.dot` e representa um diagrama circular da taxonomia da família dos gatos (*Felidae*), como a seguinte imagem: 
+Também foi feita uma função `desenhaGatos` que gera um ficheiro `.dot` e representa um diagrama circular da taxonomia da família dos gatos (*Felidae*), como a seguinte imagem: 
 
 colocar imagem do grafo.
 
