@@ -16,7 +16,7 @@ A função `parenteMaisProximo`, recebe o nome de duas espécies, por exemplo ho
 
 Também foi feita uma função `desenhaGatos` que gera um ficheiro `.dot` e representa um diagrama circular da taxonomia da família dos gatos (*Felidae*), como a seguinte imagem: 
 
-colocar imagem do grafo.
+![Cat Tree](cats.png)
 
   Para isso, utilizou-se a ferramenta [Graphviz](https://graphviz.org/) que gera diagramas a partir de ficheiros de texto no formato [DOT](https://graphviz.org/docs/layouts/dot/).
 
