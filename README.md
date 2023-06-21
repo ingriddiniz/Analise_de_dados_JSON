@@ -1,4 +1,4 @@
-# Analise_de_dados_JSON
+# Analise de dados (JSON)
 Análise de Dados JSON  
 
 Este é um projeto da cadeira de Programação 2 da Faculdade de Ciências da Universidade do Porto, cujo objetivo é investigar os conceitos base de análise de dados em Python de uma perspetiva prática, e aplicá-los na leitura e processamento de dados em formato JSON.
