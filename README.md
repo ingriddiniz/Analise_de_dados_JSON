@@ -22,3 +22,7 @@ Também foi feita uma função `desenhaGatos` que gera um ficheiro `.dot` e repr
   Para isso, utilizou-se a ferramenta [Graphviz](https://graphviz.org/) que gera diagramas a partir de ficheiros de texto no formato [DOT](https://graphviz.org/docs/layouts/dot/).
 
 É possível inspecionar o template gerado em visualizadores online como [este](https://edotor.net/). 
+
+## Conclusão
+  
+Esse projeto proporcionou uma experiência prática na análise de dados em Python, utilizando o formato JSON e aplicando técnicas de estrutura de árvore. Através da implementação das funções, foi possível explorar e compreender a taxonomia dos mamíferos, identificando espécies específicas e suas relações.
